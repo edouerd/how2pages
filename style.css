@@ -1,0 +1,15 @@
+html,
+body {
+	width: 90%;
+	margin: 5% 5%;
+}
+
+img {
+	max-width: 100%
+}
+
+kbd {
+	background-color: #ededed;
+	padding: 3px 5px;
+	border-bottom: 2px solid #dedede; 
+}
